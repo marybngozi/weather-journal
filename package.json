@@ -1,0 +1,25 @@
+{
+  "name": "weather_journal",
+  "version": "1.0.0",
+  "description": "A Journal for Weather using the web API and Node server.",
+  "main": "server.js",
+  "author": "MaryBlessing Umeh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marybngozi/weather-journal.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marybngozi/weather-journal/issues"
+  },
+  "homepage": "https://github.com/marybngozi/weather-journal#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}

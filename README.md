@@ -1,13 +1,22 @@
 # Weather-Journal App Project
 
+A Journal for Weather using the web API and Node server.
+
+## Setup
+
+From the root folder, run
+
+```
+npm install
+npm start
+```
+
+Open `http://localhost:3000/` in the browser to view the app.
+
 ## Overview
 
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
+The api backend is in the `server.js` file and frontend in the `website/app.js` file. You can see `index.html` for element references, and the stylingin the `style.css` to customize the application.
 
-## Instructions
+## Author
 
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
-
-## Extras
-
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+MaryBlessing Umeh
