@@ -92,7 +92,6 @@ textarea:focus,
 button:focus {
   outline: none;
 }
-/* Style for Placeholder Text*/
 ::placeholder {
   /* Firefox, Chrome, Opera */
   color: #f0d43a;
